@@ -1,0 +1,12 @@
+//
+//  MomPch.pch
+//
+//
+
+#ifndef MomPch_pch
+#define MomPch_pch
+
+#import "MomPrefixHeader.h"
+#import "MomConstant.h"
+
+#endif /* MomPch_pch */
